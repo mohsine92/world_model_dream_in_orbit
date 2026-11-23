@@ -227,3 +227,4 @@ __marimo__/
 .streamlit/secrets.toml
 .vscode/
 __pycache__/
+.DS_Store
