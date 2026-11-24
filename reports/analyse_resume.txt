@@ -1,0 +1,19 @@
+RMSE globale = 0.0883  (530409 valeurs notées)
+
+Circuits qui pèsent le plus dans l'erreur :
+              mse  part_erreur_%
+NPWD2551  0.10624       41.28774
+NPWD2451  0.06181       24.02176
+NPWD2881  0.01632        6.34419
+NPWD2851  0.01585        6.15878
+NPWD2532  0.01562        6.07114
+NPWD2561  0.01249        4.85297
+NPWD2531  0.00928        3.60844
+NPWD2791  0.00508        1.97586
+
+Dérive : RMSE du 1er tiers de la période = 0.0746, du dernier tiers = 0.1014
+
+Incertitude : écart-type moyen de l'ensemble = 0.0055, erreur absolue moyenne = 0.0322
+Part des mesures dans ± 2 écarts-types : 36.1 %  (≈ 95 % si l'incertitude était bien calibrée)
+
+Figures : reports/derive.png, reports/reve_vs_realite.png

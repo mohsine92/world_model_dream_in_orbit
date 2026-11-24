@@ -1,0 +1,8 @@
+Validation : entrainement sur annee1, test sur annee2 (protocole officiel, 7 jours d'init)
+Constante (moyenne des 7 jours d'init)      RMSE = 0.1116
+Gradient boosting sur le contexte           RMSE = 0.0984
+GRU seul (experiment)                       RMSE = 0.0907
+Ensemble de 3 GRU (train.py + predict.py)   RMSE = 0.0883
+Recalage par les 7 jours d'init (poids gru_val.pth) :
+  0.0 -> 0.088302 | 0.5 -> 0.088965 | 1.0 -> 0.089873
+Conclusion : le recalage degrade legerement le score, valeur retenue = 0.
