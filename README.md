@@ -1,4 +1,4 @@
-# Dream in Orbit — un world model de la consommation électrique d'un satellite
+# Dream in Orbit - un world model de la consommation électrique d'un satellite
 
 Un réseau de neurones (ensemble de GRU) qui apprend, sur de vraies données de télémétrie, comment un satellite
 consomme de l'électricité selon son planning, puis **simule heure par heure la consommation de ses 33 circuits sur
