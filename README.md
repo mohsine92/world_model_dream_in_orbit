@@ -4,7 +4,7 @@ Un réseau de neurones (ensemble de GRU) qui apprend, sur de vraies données de 
 consomme de l'électricité selon son planning, puis **simule heure par heure la consommation de ses 33 circuits sur
 une année entière**, à partir du seul planning et de ses 7 premiers jours réels.
 
-Auteur : Mohsine ESSAT (ECE École d'Ingénieurs Paris, Bachelor's Degree Intelligence Artificial ) — Intelligence Lab.
+Auteur : Mohsine ESSAT (ECE École d'Ingénieurs Paris, Bachelor's Degree Artificial Intelligence ) — Intelligence Lab.
 
 ## Contexte
 
